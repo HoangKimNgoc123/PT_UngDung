@@ -23,6 +23,9 @@
   <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 103002" src="https://github.com/user-attachments/assets/91ae901e-dd37-441f-95e6-c3c83c9c8246" />
 
 - Edit file ./nodered/settings.js để nodered bắt buộc đăng nhập
+
+  <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 105132" src="https://github.com/user-attachments/assets/438c0cde-f1e5-41e3-ac26-912b0d42dd96" />
+
 - Chạy docker-compose lần đầu để Node-RED tự sinh file cấu hình trong thư mục ./nodered, sau đó mới tiến hành sửa settings.js và restart lại container
 
  
