@@ -3,7 +3,7 @@
 ### MSSV:  K225480106053
 ### Lớp: K58KTP
 
-1. Phần A: 
+1. Phần A: Phan_A.md
 2. Phần B: 
 3. Phần C: 
 4. Phần D:
