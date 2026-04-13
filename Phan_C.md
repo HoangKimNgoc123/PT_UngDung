@@ -2,7 +2,7 @@
 - Tạo thư mục: ~/myapp
 - Chuyển vào trong thư mục ~/myapp
 - Tạo thư mục: ./myweb
-- Tạo file ./myweb/index.html (với nội dung là thông tin cá nhân của em)
+- Tạo file ./myweb/index.html
 
    <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 101939" src="https://github.com/user-attachments/assets/fcc07086-50a9-4f75-b3e9-8faa0b187f22" />
 
