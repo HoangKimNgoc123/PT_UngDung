@@ -23,9 +23,13 @@
   <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 103002" src="https://github.com/user-attachments/assets/91ae901e-dd37-441f-95e6-c3c83c9c8246" />
 
 - Edit file ./nodered/settings.js để nodered bắt buộc đăng nhập
+- Chạy docker-compose lần đầu để Node-RED tự sinh file cấu hình trong thư mục ./nodered, sau đó mới tiến hành sửa settings.js và restart lại container
+
+  <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 104457" src="https://github.com/user-attachments/assets/cf48750d-5f5c-4a19-9228-523313c34eb4" />
 
   <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-04-12 105132" src="https://github.com/user-attachments/assets/438c0cde-f1e5-41e3-ac26-912b0d42dd96" />
 
-- Chạy docker-compose lần đầu để Node-RED tự sinh file cấu hình trong thư mục ./nodered, sau đó mới tiến hành sửa settings.js và restart lại container
+  <img width="1893" height="1052" alt="Ảnh chụp màn hình 2026-04-12 110638" src="https://github.com/user-attachments/assets/9c2ba8fb-5b0d-4c1a-b7bc-24663713bce5" />
 
- 
+  <img width="1893" height="1052" alt="Ảnh chụp màn hình 2026-04-12 110638" src="https://github.com/user-attachments/assets/e7384919-3d34-4543-8b25-f2211abbe76d" />
+
